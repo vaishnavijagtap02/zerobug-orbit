@@ -46,6 +46,14 @@ const astronomicalEvents = {
             imageAlt: "Illustration of solar wind stream flowing from the Sun"
         }
     ],
+    "07-05": [
+      {
+    year: "2025",
+    title: "Test Event for July 5",
+    description: "This is a test to make sure your website works.",
+    imageAlt: "Starry sky"
+      }
+   ],
     [new Date().toLocaleDateString('en-US', {month: '2-digit', day: '2-digit'})]: [
         {
             year: "2023",
